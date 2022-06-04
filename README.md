@@ -142,7 +142,9 @@ you can use tee for set the dante user for root without password
 
 echo 'dante ALL=(ALL) NOPASSWD:ALL' | sudo tee -a /etc/sudoers
 
-sudo su to get root
+sudo su
+
+get root :)
 
 
 
